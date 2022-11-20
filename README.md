@@ -10,9 +10,9 @@ You can probably find me in other places around the internet as xuxu_blz or some
 
 ## Look at these cool charts
 
-[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-gama)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-gama)](https://github.com/anuraghazra/github-readme-stats)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xuxu_blz)](https://github.com/anuraghazra/github-readme-stats)
+[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-gama&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-gama&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xuxu_blz&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me in other places
 
